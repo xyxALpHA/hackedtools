@@ -8,7 +8,7 @@ whatever it does
 This tool provides test life by sending loaded packages to target websites.
 install / install
 git clone https://github.com/xyxALpHA/hackedtools.git
-cd PARASITIC-ATTACK
+cd hackedtools
 chmod +x parasitical.py
 python parasitical.py
 #######################
