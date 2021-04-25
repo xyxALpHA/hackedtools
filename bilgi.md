@@ -6,7 +6,7 @@ Bu tool hedef web sitelerine yuklu paketler gondererek onlari test etmenizi sagl
 
 ### yukleme/kurma
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### git clone https://github.com/xyxALpHA/hackedtools.git
 
 ### cd PARASITICAL-ATTACK
 
