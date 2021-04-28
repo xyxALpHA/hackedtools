@@ -12,7 +12,7 @@ Bu tool hedef web sitelerine yuklu paketler gondererek onlari test etmenizi sagl
 
 ### chmod +x parasitical.py
 
-### python parasitical.py.py
+### python parasitical.py.
 
 ### uyari!!!
 ddos korumali sitelerde ddos atak ise yaramaz
