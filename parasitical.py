@@ -3,6 +3,8 @@ import os
 import time
 import socket
 import random
+from colorama import Fore, Back, Style
+from random import choice
 #Code Time
 from datetime import datetime
 now = datetime.now()
@@ -18,12 +20,25 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet PARASITICAL")
+logo = """ 
+
+ ___   _    ____      _    ____ ___ _____ ___ ____    _    _  *   
+|  _ \ / \  |  _ \    / \  / ___|_ _|_   _|_ _/ ___|  / \  | | *   
+| |_) / _ \ | |_) |  / _ \ \___ \| |  | |  | | |     / _ \ | |    
+|  __/ ___ \|  _ <  / ___ \ ___) | |  | |  | | |___ / ___ \| |___ 
+|_| /_/   \_\_| \_\/_/   \_\____/___| |_| |___\____/_/   \_\_____|v1.2
+
+"""
+print(Fore.RED + Style.BRIGHT + logo + Style.RESET_ALL + Style.BRIGHT +"\n")
 print
 print "yapimci  : xyxALpHA"
+print "--------------------------------------------"
 print "website : https://www.turkhackteam.org"
+print "--------------------------------------------"
 print "instagram :xyxALpHA_tht"
+print "--------------------------------------------"
 print "PARASITICAL"
+print "------******--------------------******------"
 ip = raw_input("HEDEF IP : ")
 port = input("Port       : ")
 
