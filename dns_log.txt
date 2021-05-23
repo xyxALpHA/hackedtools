@@ -1,0 +1,2 @@
+
+HostnameTypeTTLPriorityContentwww.trendyol.comSOA1799evan.ns.cloudflare.com dns@cloudflare.com 2037327750 10000 2400 604800 3600www.trendyol.comA299104.17.133.16www.trendyol.comA299104.17.134.16 
